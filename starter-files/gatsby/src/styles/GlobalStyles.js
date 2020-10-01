@@ -1,7 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 import bg from '../assets/images/bg.svg';
 import stripes from '../assets/images/stripes.svg';
-
+// comment
 const GlobalStyles = createGlobalStyle`
   :root {
     --red: #FF4949;
